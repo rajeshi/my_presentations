@@ -13,6 +13,7 @@ public class Children extends Parent {
 
     @Override
     public String getProfession() {
+	nextGenProperty = "Possible";
 	return "Software Developer";
     }
 }

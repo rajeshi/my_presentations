@@ -13,6 +13,7 @@ public class Parent extends GrandParent {
 
     @Override
     public String getProfession() {
+	nextGenProperty = "Test";
 	return "Income Tax Consultant";
     }
 }
