@@ -1,10 +1,10 @@
 package javacourse;
 
-public class MercedesUnit extends CarFactory{
+public class MercedesUnit implements CarFactory {
 
     @Override
-    public void roofWindowImplementation() {
-        System.out.println("This is the Mercedes Roof Window Implementation");
+    public Car createCar() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-    
+
 }
