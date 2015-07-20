@@ -1,4 +1,4 @@
-package com.xpanxion.design.patterns.chain_of_responsibility.car;
+package com.xpanxion.design.patterns.dto.car;
 
 public class Engine {
     private String name;

@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.xpanxion.design.patterns.chain_of_responsibility.car;
+package com.xpanxion.design.patterns.dto.car;
 
 /**
  *
  * @author rajeshi
  */
-public class BrakingSystem {
+public class Mirrors {
     
 }

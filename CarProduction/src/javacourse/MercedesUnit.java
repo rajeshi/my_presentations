@@ -1,5 +1,8 @@
 package javacourse;
 
+import annotations.GeneralInfo;
+
+@GeneralInfo(regNum = "MER/100/001", address1 = "Test Street", city = "Test City", pin = 012345, state = "TE")
 public class MercedesUnit implements CarFactory {
 
     @Override

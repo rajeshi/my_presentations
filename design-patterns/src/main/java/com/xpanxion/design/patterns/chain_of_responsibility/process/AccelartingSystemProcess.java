@@ -1,7 +1,7 @@
 package com.xpanxion.design.patterns.chain_of_responsibility.process;
 
-import com.xpanxion.design.patterns.chain_of_responsibility.car.AcceleratingSystem;
-import com.xpanxion.design.patterns.chain_of_responsibility.car.LuxuryCar;
+import com.xpanxion.design.patterns.dto.car.AcceleratingSystem;
+import com.xpanxion.design.patterns.dto.car.LuxuryCar;
 
 public class AccelartingSystemProcess extends Process {
 
